@@ -1,6 +1,6 @@
 namespace CampFeedBack.Pages;
 
-public class Image
+public class Issue_Image
 {
     
 }
